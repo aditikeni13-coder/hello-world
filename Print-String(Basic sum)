@@ -1,0 +1,12 @@
+public class PrintString {
+    public static void main(String[] args) {
+        
+        String s = "Repeat";
+        
+        System.out.print(s);
+        System.out.println(s);
+        
+        String name = "coding Simplified";
+        System.out.println("Name: " + name);
+    }
+}
